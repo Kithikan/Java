@@ -9,6 +9,7 @@ class PrintDemo {
 		System.out.print("My nameis seelan"); // Using println
 		// Using print();
 		System.out.print("My father name is yogan");
+	}
 		System.out.print("my age is 24");
 		
 		System.out.println(); 
@@ -16,5 +17,5 @@ class PrintDemo {
 		System.out.print("My name is Seelan\n");
 		System.out.print("My father name is yogan\n");                         
 		System.out.print("My age is 24\n");
-	}
-}
+	
+	
