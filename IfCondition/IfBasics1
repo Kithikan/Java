@@ -1,0 +1,9 @@
+class IfBasics1{
+	public static void main(String args[]){
+		if(false){
+	
+			System.out.println("Welcome to yarl it");
+			
+		}
+	}
+}	
