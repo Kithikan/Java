@@ -11,7 +11,7 @@ class Ifbasic3{
 			System.out.println("B");
 		}	
 				
-		else if (marks >= 55){
+				else if (marks >= 55){
 			System.out.println("C");
 		}	
 			

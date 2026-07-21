@@ -4,6 +4,8 @@ class IfBasics1{
 	
 			System.out.println("Welcome to yarl it");
 			
+		else 
+			
 		}
 	}
 }	
