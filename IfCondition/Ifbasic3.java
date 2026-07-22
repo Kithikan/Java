@@ -2,9 +2,10 @@ class Ifbasic3{
 	public static void main(String args[]){
 		
 		int marks =26;
-		
+
+		//if conditions
 		if (marks >= 75 && marks<=100){			
-			System.out.println("A");
+			System.out.println("A");  // output: A
 		}	
 			
 		else if (marks >= 65){
