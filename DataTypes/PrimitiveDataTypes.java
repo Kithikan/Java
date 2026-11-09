@@ -52,4 +52,4 @@ class PrimitiveDataTypes{
 		ch5='\u0041';	//Unicode value
 		System.out.println("Char: "+ch5);
     }
-}
+}  
